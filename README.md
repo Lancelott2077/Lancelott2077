@@ -4,7 +4,7 @@
 
 ### CS Student · Builder · Perpetual Learner
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Computer+Science+%40+Shiv+Nadar+University;Always+learning%2C+always+building;Open+to+any+and+all+opportunities!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Always+learning%2C+always+building;Open+to+any+and+all+opportunities!)](https://git.io/typing-svg)
 
 </div>
 
@@ -35,7 +35,7 @@ Interests     →  [ Ask me in a few months 😄 ]
 
 <div align="right">
 
-<sub>you found me 🐱</sub>
+<sub>"Have you tried turning it off and on again?"</sub>
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="40" />
 
 </div>
